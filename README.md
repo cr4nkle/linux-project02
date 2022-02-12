@@ -20,4 +20,14 @@
 Глядим на струи фимиама.
 ***
 [Ссылка на сайт](http://stih.su/pervyy-sneg-2/)
+## Блок кода
+	using System;
+	
+	class Main;
+	{
 
+		public static void Main()
+		{
+			Console.WriteLine("Hello world");
+		}
+	}
